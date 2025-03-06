@@ -1,0 +1,18 @@
+.contentContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.welcomeText {
+  color: red;
+}
+
+.git-workflow-image {
+  width: 100%;
+  max-width: 600px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto;
+}
